@@ -1,1 +1,2 @@
 YES or NO
+NEW LINE
